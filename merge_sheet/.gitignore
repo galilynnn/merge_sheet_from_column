@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Streamlit cache
+.streamlit/config.toml
+.streamlit/*.json
+
+# MacOS metadata files
+.DS_Store
+
+# Uploads or output folders (optional)
+uploads/
+outputs/
+*.xlsx

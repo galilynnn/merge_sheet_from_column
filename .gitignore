@@ -14,7 +14,7 @@ venv/
 # MacOS metadata files
 .DS_Store
 
-# Uploads or output folders (optional)
+# Uploads or output folders
 uploads/
 outputs/
 *.xlsx
